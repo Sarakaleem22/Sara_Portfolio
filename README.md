@@ -1,7 +1,7 @@
 # Sara_Portfolio
 Data Science Portfolio
 
-# Project 1: Rainfall prediction
+# [Project 1: Rainfall prediction](https://github.com/Sarakaleem22/Rainfall_Prediction)
 ## Project Overview
 * Obtained the dataset using Kaggle and implemented three rainfall prediction models, namely; Support Vector Regression, Random Forest regressor and Decision Tree Regressor.
 * Performed the pre-processing, feature engineering, EDA and implemented machine learning models using R Script.
