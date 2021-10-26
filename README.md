@@ -21,6 +21,16 @@ Data Science Portfolio
 * Used R^2 as the performance measure of the model and got the score as 92.69%
 * Predicted the price of the house based on user input.
 
+# Natural Language Processing
+
+## [Project 1: SPAM SMS Classifier](https://github.com/Sarakaleem22/SMS_OR_HAM/blob/main/README.md)
+### Project Overview
+* Used a SMS Collection dataset stored in text format to classify the SMS as SPAM or HAM.
+* Used the concepts of Natural Language Processing for text pre-processing (removing stopwords, punctuations,etc.)
+* Implemented Naive Bayes Classification Model.
+* The accuracy of the model was high (97.91%), which means the model performed really well.
+* Classified the SMS as SPAM or HAM based on user input.
+
 
 # Exploratory Data Analysis
 
@@ -29,3 +39,5 @@ Data Science Portfolio
 * Performed Exploratory data analysis on Iris Dataset using python.
 * Several python libraries were used and the features and label columns were selected.
 * The visualization shows various plots such as Pie Chart, Historgram and Scatterplots.
+
+
