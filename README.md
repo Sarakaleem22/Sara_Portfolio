@@ -13,6 +13,14 @@ Data Science Portfolio
 * Random Forest Regressor (ntree=500): 0.1569539
 * Support Vector Regressor (Feature scaled data): 0.361147
 
+## [Project 2: USA-Housing Price Prediction](https://github.com/Sarakaleem22/USA_Housing-Linear_Regression)
+### Project Overview
+* Implemented Linear Regression model too predict the price of the houses in USA.
+* Checked missing values and also checked the correlation between the variables in the dataset.
+* Split the dataset into training - testing as 0.8:0.2
+* Used R^2 as the performance measure of the model and got the score as 92.69%
+* Predicted the price of the house based on user input.
+
 
 # Exploratory Data Analysis
 
