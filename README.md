@@ -12,3 +12,12 @@ Data Science Portfolio
 * Decision Tree Regressor (70:30 split): 0.2859088
 * Random Forest Regressor (ntree=500): 0.1569539
 * Support Vector Regressor (Feature scaled data): 0.361147
+
+
+# Exploratory Data Analysis
+
+## [Project 1: Data Exploration on Iris Data](https://github.com/Sarakaleem22/Iris_Data)
+### Project Overview
+* Performed Exploratory data analysis on Iris Dataset using python.
+* Several python libraries were used and the features and label columns were selected.
+* The visualization shows various plots such as Pie Chart, Historgram and Scatterplots.
