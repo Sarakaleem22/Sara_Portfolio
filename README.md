@@ -40,4 +40,7 @@ Data Science Portfolio
 * Several python libraries were used and the features and label columns were selected.
 * The visualization shows various plots such as Pie Chart, Historgram and Scatterplots.
 
+## [Project 2: Data Exploration on 50 Startup Data](https://github.com/Sarakaleem22/Sara_Portfolio/blob/main/50StartupsEDAExample.ipynb) 
+* Performed Exploratory Data Analysis on 50 Startup Dataset using python.
+
 
