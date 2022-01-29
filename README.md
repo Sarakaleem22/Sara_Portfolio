@@ -21,6 +21,22 @@ Data Science Portfolio
 * Used R^2 as the performance measure of the model and got the score as 92.69%
 * Predicted the price of the house based on user input.
 
+# Deep Learning
+
+## [Project 1: X-Ray Image Classification using Deep Learning](https://github.com/Sarakaleem22/X-RayImage-classification-DL)
+### Project Overview
+* The dataset for this project is the Chest X-Ray Images (Pneumonia), published by Daniel et al., (2018), and available on Kaggle by Paul Mooney.
+* Implemented simple CNN and transfer Learning Models using python. 
+* Total of five models were implemented for this project - CNN Model 1, CNN Model 2, CNN Model 3, VGG16 and VGG19.
+* Performed data preparation for images (Image Scaling, Image Augmentation), Exploratory Data Analysis.
+* Fine Tuned the models to decide the best performing models.
+* Accuracy for the five models are as follows:
+* CNN Model 1: 94.17
+* CNN Model 2: 95.13
+* CNN Model 3: 92.48
+* VGG16: 82.85
+* VGG19: 84.45
+
 # Natural Language Processing
 
 ## [Project 1: SPAM SMS Classifier](https://github.com/Sarakaleem22/SMS_OR_HAM/blob/main/README.md)
