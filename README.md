@@ -71,6 +71,6 @@ Data Science Portfolio
 
 
 # Profiles
-[LinkedIn](www.linkedin.com/in/sara-kaleem) 
-[Medium](https://medium.com/me/stories/public)
-[Datacamp](https://app.datacamp.com/talent/profile)
+### [LinkedIn](www.linkedin.com/in/sara-kaleem) 
+### [Medium](https://medium.com/me/stories/public)
+### [Datacamp](https://app.datacamp.com/talent/profile)
