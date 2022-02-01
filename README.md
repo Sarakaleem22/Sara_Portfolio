@@ -1,6 +1,15 @@
 # Sara_Portfolio
 Data Science Portfolio
 
+# Data Analysis
+
+## [Project: Employee Turnover](https://github.com/Sarakaleem22/employeeturnover)
+### Project Overview
+*The board of a human capital department of a large corporation is worried about the relatively high turnover, and the analytics team must look into ways to reduce the number of employees leaving the company. The team needs to understand better the situation, which employees are more likely to leave, and why. Once it is clear what variables impact employee churn, the team can present findings along with ideas on how to attack the problem.*
+
+* This project was a part of datacamp competiton and the dataset was provided by them.
+* Link to datacamp file - https://app.datacamp.com/workspace/w/027a10e4-6a0a-4312-9b34-2c1f7c9f24ab 
+
 # Machine Learning 
 
 ## [Project 1: Rainfall prediction](https://github.com/Sarakaleem22/Rainfall_Prediction)
