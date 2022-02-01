@@ -1,6 +1,7 @@
 # Sara_Portfolio
 Data Science Portfolio
 
+
 # Data Analysis
 
 ## [Project: Employee Turnover](https://github.com/Sarakaleem22/employeeturnover)
@@ -69,3 +70,7 @@ Data Science Portfolio
 * Performed Exploratory Data Analysis on 50 Startup Dataset using python.
 
 
+# Profiles
+[LinkedIn](www.linkedin.com/in/sara-kaleem) 
+[Medium](https://medium.com/me/stories/public)
+[Datacamp](https://app.datacamp.com/talent/profile)
