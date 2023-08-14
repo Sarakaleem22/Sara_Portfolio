@@ -4,6 +4,13 @@ Data Science Portfolio
 
 # Data Analysis
 
+## [Poject: HR Analytics Dashboard using Power BI](https://github.com/Sarakaleem22/HRAnalytics.git)
+### Project Overview
+*The key to success in any organization is attracting and retaining top talent. 
+*This dashboard gives an overview of the employee attriton data based on different gender groups, age groups, job roles, etc.
+
+The dataset is available on [kaggle](https://www.kaggle.com/datasets/patelprashant/employee-attrition)
+
 ## [Project: Employee Turnover](https://github.com/Sarakaleem22/employeeturnover)
 ### Project Overview
 *The board of a human capital department of a large corporation is worried about the relatively high turnover, and the analytics team must look into ways to reduce the number of employees leaving the company. The team needs to understand better the situation, which employees are more likely to leave, and why. Once it is clear what variables impact employee churn, the team can present findings along with ideas on how to attack the problem.*
