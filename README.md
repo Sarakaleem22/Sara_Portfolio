@@ -4,10 +4,10 @@ Data Science Portfolio
 
 # Data Analysis
 
-## [Poject: HR Analytics Dashboard using Power BI](https://github.com/Sarakaleem22/HRAnalytics.git)
+## [Project: HR Analytics Dashboard using Power BI](https://github.com/Sarakaleem22/HRAnalytics.git)
 ### Project Overview
-*The key to success in any organization is attracting and retaining top talent. 
-*This dashboard gives an overview of the employee attriton data based on different gender groups, age groups, job roles, etc.
+*The key to success in any organization is attracting and retaining top talent.* 
+*This dashboard gives an overview of the employee attriton data based on different gender groups, age groups, job roles, etc.*
 
 The dataset is available on [kaggle](https://www.kaggle.com/datasets/patelprashant/employee-attrition)
 
