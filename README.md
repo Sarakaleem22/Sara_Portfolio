@@ -9,14 +9,14 @@ Data Science Portfolio
 *The key to success in any organization is attracting and retaining top talent.* 
 *This dashboard gives an overview of the employee attriton data based on different gender groups, age groups, job roles, etc.*
 
-The dataset is available on [kaggle](https://www.kaggle.com/datasets/patelprashant/employee-attrition)
+*The dataset is available on [kaggle](https://www.kaggle.com/datasets/patelprashant/employee-attrition)*
 
 ## [Project: Employee Turnover](https://github.com/Sarakaleem22/employeeturnover)
 ### Project Overview
 *The board of a human capital department of a large corporation is worried about the relatively high turnover, and the analytics team must look into ways to reduce the number of employees leaving the company. The team needs to understand better the situation, which employees are more likely to leave, and why. Once it is clear what variables impact employee churn, the team can present findings along with ideas on how to attack the problem.*
 
-* This project was a part of datacamp competiton and the dataset was provided by them.
-* [Datacamp](https://app.datacamp.com/workspace/w/027a10e4-6a0a-4312-9b34-2c1f7c9f24ab) 
+*This project was a part of datacamp competiton and the dataset was provided by them.*
+*[Datacamp](https://app.datacamp.com/workspace/w/027a10e4-6a0a-4312-9b34-2c1f7c9f24ab)* 
 
 # Machine Learning 
 
